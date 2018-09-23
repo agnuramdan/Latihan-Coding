@@ -1,2 +1,2 @@
-# Latihan-
-Latihan coding
+# Latihan
+Repo ini berisi Latihan coding
